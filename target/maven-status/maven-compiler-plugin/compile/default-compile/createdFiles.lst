@@ -1,0 +1,8 @@
+com\mycompany\inventarioweb\JakartaRestConfiguration.class
+com\mycompany\inventarioweb\resources\JakartaEE10Resource.class
+modelo\ConexionSQLite.class
+modelo\Producto.class
+controlador\EditarProductoServlet.class
+controlador\ProductoServlet.class
+controlador\LogoutServlet.class
+controlador\LoginServlet.class
