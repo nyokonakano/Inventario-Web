@@ -1,0 +1,10 @@
+com\mycompany\inventarioweb\JakartaRestConfiguration.class
+com\mycompany\inventarioweb\resources\JakartaEE10Resource.class
+modelo\ConexionMySQL.class
+modelo\Producto.class
+controlador\EditarProductoServlet.class
+controlador\ProductoServlet.class
+modelo\Usuario.class
+controlador\LogoutServlet.class
+controlador\UsuarioServlet.class
+controlador\LoginServlet.class
